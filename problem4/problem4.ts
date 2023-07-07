@@ -13,4 +13,4 @@ function palindrome(kata : string) : boolean {
     }
 }
 
-console.log(palindrome("katak"))
+console.log(palindrome("civic"))
